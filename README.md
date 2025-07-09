@@ -1,1 +1,3 @@
 # EX--2
+HELLO 
+HOW ARE YOU
